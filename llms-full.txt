@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 464 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 466 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -676,6 +676,18 @@ Local-first macOS MCP server for controlling browser tabs, Mac apps, files and t
 - Tags: macos, browser-automation, desktop-automation, agents, local
 - Category: Developer Tools and Code Intelligence
 
+### MaxiBestOf
+
+Search website designs, UI sections, fonts, palettes, and design profiles. Requires MaxiBestOf Pro.
+
+- URL: https://github.com/luminous8/maxibestof-mcp
+- Language: Other
+- Provider: MaxiBestOf
+- Official: yes
+- Tags: design, websites, fonts, remote, oauth
+- Category: Developer Tools and Code Intelligence
+- Streamable HTTP endpoint: https://maxibestof.one/mcp-server
+
 ### MCP Production Kit
 
 Enterprise TypeScript starter kit for building production MCP servers with dual stdio/SSE transports, SSRF defense, memory store, and Docker support.
@@ -708,6 +720,18 @@ Hosted MCP diagnostics for API authentication, webhooks, and AI-agent integratio
 - Official: yes
 - Tags: diagnostics, api, auth, webhooks, remote
 - Category: Developer Tools and Code Intelligence
+
+### Nicelydone
+
+Search web app screens, UI elements, and user flows for design research. Requires Nicelydone Premium.
+
+- URL: https://github.com/nicelydoneapp/mcp
+- Language: Other
+- Provider: Nicelydone
+- Official: yes
+- Tags: design, ui, ux, remote, oauth
+- Category: Developer Tools and Code Intelligence
+- Streamable HTTP endpoint: https://mcp.nicelydone.club/mcp
 
 ### Oh My Android
 
